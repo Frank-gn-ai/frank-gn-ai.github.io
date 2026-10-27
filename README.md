@@ -1,1 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frank's AI Portfolio</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Frank's Generative AI Portfolio</h1>
+        <p>Hello! I am frank-gn-ai, a developer focusing on Generative AI solutions.</p>
+    </header>
+
+    <hr>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Feel free to reach out to me through any of the channels below:</p>
+        <ul>
+            <li><strong>Email:</strong> <a href="mailto:your.email@example.com">your.email@example.com</a></li>
+            <li><strong>GitHub Profile:</strong> <a href="https://github.com" target="_blank">://github.com</a></li>
+            <li><strong>LinkedIn:</strong> <a href="https://linkedin.com" target="_blank">Connect with me on LinkedIn</a></li>
+        </ul>
+    </section>
+</body>
+</html>
 # frank-gn-ai.github.io
